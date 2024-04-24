@@ -1,3 +1,3 @@
 # Projects
 
-THese are projects I have made
+These are projects I have made
